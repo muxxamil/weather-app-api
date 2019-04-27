@@ -1,0 +1,6 @@
+{
+    "VALIDATION_ERROR": {
+        "INVALID_TEMPERATURE" : "Invalid Temperature value! Temperature should a Positive number value",
+        "INVALID_ID" : "Invalid Temperature Id."
+    }
+}
